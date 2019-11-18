@@ -1,0 +1,14 @@
+#googleMap {
+    border-radius: 50px;
+    /* margin: auto; */
+}
+
+button {
+    position: inline;
+    border-radius: 50px;
+    display: block;
+    width: 75px;
+    border: 0;
+    background-color: tomato;
+    margin-bottom: 3px;
+}
